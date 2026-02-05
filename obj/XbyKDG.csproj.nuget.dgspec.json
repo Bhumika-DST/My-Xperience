@@ -52,19 +52,19 @@
           "dependencies": {
             "kentico.xperience.admin": {
               "target": "Package",
-              "version": "[29.6.1, )"
+              "version": "[31.1.1, )"
             },
             "kentico.xperience.azurestorage": {
               "target": "Package",
-              "version": "[29.6.1, )"
+              "version": "[31.1.1, )"
             },
             "kentico.xperience.imageprocessing": {
               "target": "Package",
-              "version": "[29.6.1, )"
+              "version": "[31.1.1, )"
             },
             "kentico.xperience.webapp": {
               "target": "Package",
-              "version": "[29.6.1, )"
+              "version": "[31.1.1, )"
             }
           },
           "imports": [

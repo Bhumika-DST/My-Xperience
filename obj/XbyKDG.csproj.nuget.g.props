@@ -14,9 +14,9 @@
     <SourceRoot Include="C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages\" />
   </ItemGroup>
   <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
-    <Import Project="$(NuGetPackageRoot)microsoft.extensions.fileproviders.embedded\6.0.35\build\netstandard2.0\Microsoft.Extensions.FileProviders.Embedded.props" Condition="Exists('$(NuGetPackageRoot)microsoft.extensions.fileproviders.embedded\6.0.35\build\netstandard2.0\Microsoft.Extensions.FileProviders.Embedded.props')" />
-    <Import Project="$(NuGetPackageRoot)hotchocolate.data\13.9.14\build\HotChocolate.Data.props" Condition="Exists('$(NuGetPackageRoot)hotchocolate.data\13.9.14\build\HotChocolate.Data.props')" />
-    <Import Project="$(NuGetPackageRoot)hotchocolate.aspnetcore\13.9.14\build\HotChocolate.AspNetCore.props" Condition="Exists('$(NuGetPackageRoot)hotchocolate.aspnetcore\13.9.14\build\HotChocolate.AspNetCore.props')" />
-    <Import Project="$(NuGetPackageRoot)kentico.xperience.webapp\29.6.1\buildTransitive\Kentico.Xperience.WebApp.props" Condition="Exists('$(NuGetPackageRoot)kentico.xperience.webapp\29.6.1\buildTransitive\Kentico.Xperience.WebApp.props')" />
+    <Import Project="$(NuGetPackageRoot)microsoft.extensions.fileproviders.embedded\8.0.22\build\netstandard2.0\Microsoft.Extensions.FileProviders.Embedded.props" Condition="Exists('$(NuGetPackageRoot)microsoft.extensions.fileproviders.embedded\8.0.22\build\netstandard2.0\Microsoft.Extensions.FileProviders.Embedded.props')" />
+    <Import Project="$(NuGetPackageRoot)hotchocolate.data\15.0.3\build\HotChocolate.Data.props" Condition="Exists('$(NuGetPackageRoot)hotchocolate.data\15.0.3\build\HotChocolate.Data.props')" />
+    <Import Project="$(NuGetPackageRoot)hotchocolate.aspnetcore\15.0.3\build\HotChocolate.AspNetCore.props" Condition="Exists('$(NuGetPackageRoot)hotchocolate.aspnetcore\15.0.3\build\HotChocolate.AspNetCore.props')" />
+    <Import Project="$(NuGetPackageRoot)kentico.xperience.webapp\31.1.1\buildTransitive\Kentico.Xperience.WebApp.props" Condition="Exists('$(NuGetPackageRoot)kentico.xperience.webapp\31.1.1\buildTransitive\Kentico.Xperience.WebApp.props')" />
   </ImportGroup>
 </Project>

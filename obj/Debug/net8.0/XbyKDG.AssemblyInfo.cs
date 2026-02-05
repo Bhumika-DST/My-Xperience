@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("XbyKDG")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fa216a892ec46c36783c723a7d9b6fb0ce27a359")]
 [assembly: System.Reflection.AssemblyProductAttribute("XbyKDG")]
 [assembly: System.Reflection.AssemblyTitleAttribute("XbyKDG")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
